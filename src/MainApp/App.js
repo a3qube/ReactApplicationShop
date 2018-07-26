@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../../../resource/Products.json";
+import data from "../resource/Products.json";
 import "./styles.css";
 import ProductTile from "../ProductListTile/ProductTile";
 import { Route, Switch } from "react-router-dom";
