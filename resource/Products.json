@@ -1,0 +1,828 @@
+{
+  "numberOfProducts": 6247136,
+  "products": [
+    {
+      "name": "Isotonix OPC-3&reg;",
+      "minimumPrice": "$31.95",
+      "maximumPrice": "$71.95",
+      "brand": "Isotonix&reg;",
+      "description": "Isotonix OPC-3&reg; is an isotonic-capable food supplement that is made from a combination of bilberry, grape seed, red wine and pine bark extracts, and citrus extract bioflavonoids, all found to be powerful antioxidants. Oligomeric proanthocyanidins...",
+      "imageUrl": "https://img.shop.com/Image/210000/214100/214196/products/561800349.jpg",
+      "id": 603139941,
+      "referralUrl": "http://www.shop.com/isotonix-opc-3-561800349-p.xhtml?publisherID=TEST",
+      "cashback": 1.44,
+      "bv": 43.5,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/603139941?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "transitions referralPage",
+          "href": "http://www.tlsslim.com/product/isotonix-opc-3/?id=2217&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/isotonix-opc-3-561800349-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        },
+        {
+          "rel": "isotonix referralPage",
+          "href": "http://www.isotonix.com/product/isotonix-opc-3/?id=2217&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "DNA Miracles&reg; Vitamin C + D3 Chews",
+      "minimumPrice": "$21.50",
+      "maximumPrice": "$21.50",
+      "brand": "DNA Miracles&reg;",
+      "description": "Getting the right amounts of the right nutrients to help support children is essential to their growth. Especially if they are picky eaters and do not eat a balanced diet. Now, DNA Miracles&reg; features a new supplement with a blend of Vitamin C and...",
+      "imageUrl": "https://img.shop.com/Image/250000/250100/250199/products/1570985405.jpg",
+      "id": 1540411553,
+      "referralUrl": "http://www.shop.com/dna-miracles-vitamin-c-d3-chews-1570985405-p.xhtml?publisherID=TEST",
+      "cashback": 0.43,
+      "bv": 10,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1540411553?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/dna-miracles-vitamin-c-d3-chews-1570985405-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "Isotonix Essentials&trade; Turn Up",
+      "minimumPrice": "$79.95",
+      "maximumPrice": "$79.95",
+      "brand": "Isotonix&reg;",
+      "description": "Is that mid-morning or afternoon slump hitting you like a truck? Are you tired of your energy crashing at times when being alert and focused is crucial to your productivity? Whether it is 10 a.m. or 2 p.m., get energized, stay focused and keep sharp...",
+      "imageUrl": "https://img.shop.com/Image/210000/214100/214196/products/1570985388.jpg",
+      "id": 1540411536,
+      "referralUrl": "http://www.shop.com/isotonix-essentials-turn-up-1570985388-p.xhtml?publisherID=TEST",
+      "cashback": 1.6,
+      "bv": 40,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1540411536?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "transitions referralPage",
+          "href": "http://www.tlsslim.com/product/isotonix-essentials-turn-up/?id=5797509&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/isotonix-essentials-turn-up-1570985388-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        },
+        {
+          "rel": "isotonix referralPage",
+          "href": "http://www.isotonix.com/product/isotonix-essentials-turn-up/?id=5797509&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "Isotonix Essentials&trade; Women's Health",
+      "minimumPrice": "$79.95",
+      "maximumPrice": "$79.95",
+      "brand": "Isotonix&reg;",
+      "description": "As jetsetters and go-getters, women are constantly on the move. There’s a lot to think about all the time, so maintaining a healthy lifestyle can get pushed to the back burner. However, your health should take precedence. Cardiovascular health, skin...",
+      "imageUrl": "https://img.shop.com/Image/210000/214100/214196/products/1570985386.jpg",
+      "id": 1540411534,
+      "referralUrl": "http://www.shop.com/isotonix-essentials-womens-health-1570985386-p.xhtml?publisherID=TEST",
+      "cashback": 1.6,
+      "bv": 40,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1540411534?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "transitions referralPage",
+          "href": "http://www.tlsslim.com/product/isotonix-essentials-womens-health/?id=5797505&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/isotonix-essentials-womens-health-1570985386-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        },
+        {
+          "rel": "isotonix referralPage",
+          "href": "http://www.isotonix.com/product/isotonix-essentials-womens-health/?id=5797505&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "Motives&reg; Double Take Lipstick Duo",
+      "minimumPrice": "$22.00",
+      "maximumPrice": "$22.00",
+      "brand": "Motives&reg; Cosmetics",
+      "description": "An innovative lipstick duo that perfectly pairs bold and metallic hues to instantly transform your pout. The creamy, moisturizing formula hydrates lips in a single swipe for a flawless, smooth application. Create a color combination that turns heads...",
+      "imageUrl": "https://img.shop.com/Image/240000/243300/243380/products/1570985392.jpg",
+      "id": 1540411540,
+      "referralUrl": "http://www.shop.com/motives-double-take-lipstick-duo-1570985392-p.xhtml?publisherID=TEST",
+      "cashback": 0.44,
+      "bv": 12,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1540411540?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/motives-double-take-lipstick-duo-1570985392-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        },
+        {
+          "rel": "motives referralPage",
+          "href": "http://www.motivescosmetics.com/product/motives-double-take-lipstick-duo/?id=5797569&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "Motives&reg; Filter HD Powder",
+      "minimumPrice": "$29.95",
+      "maximumPrice": "$29.95",
+      "brand": "Motives&reg; Cosmetics",
+      "description": "A translucent finishing powder developed with ultra-blurring and light reflecting pigments that set makeup for an airbrushed, high-definition finish. The lightweight formula leaves an undetectable veil that reduces the appearance of shine and blurs...",
+      "imageUrl": "https://img.shop.com/Image/240000/243300/243380/products/1570985391.jpg",
+      "id": 1540411539,
+      "referralUrl": "http://www.shop.com/motives-filter-hd-powder-1570985391-p.xhtml?publisherID=TEST",
+      "cashback": 0.6,
+      "bv": 16,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1540411539?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/motives-filter-hd-powder-1570985391-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        },
+        {
+          "rel": "motives referralPage",
+          "href": "http://www.motivescosmetics.com/product/motives-filter-hd-powder/?id=5797344&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "TLS&reg; Trim Tea",
+      "minimumPrice": "$39.95",
+      "maximumPrice": "$39.95",
+      "brand": "TLS&reg;",
+      "description": "Are you looking for a simple and convenient way to help manage your weight? Your health goals may be closer than you think with our thermogenic slimming tea from TLS&reg; Weight Loss Solution.*  TLS&reg; Trim Tea is a gluten-free, thermogenic slimming...",
+      "imageUrl": "https://img.shop.com/Image/240000/243300/243395/products/1572068753.jpg",
+      "id": 1541503664,
+      "referralUrl": "http://www.shop.com/tls-trim-tea-1572068753-p.xhtml?publisherID=TEST",
+      "cashback": 0.8,
+      "bv": 20,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1541503664?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "transitions referralPage",
+          "href": "http://www.tlsslim.com/product/tls-trim-tea/?id=5797628&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/tls-trim-tea-1572068753-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "TLS&reg; Plant-Based Protein Shake",
+      "minimumPrice": "$35.99",
+      "maximumPrice": "$35.99",
+      "brand": "TLS&reg;",
+      "description": "Are you looking for a great shake that fits into your unique lifestyle and dietary habits? Our TLS&reg; Plant-Based Protein Shake provides the nutrition you need, and so much more!  With the popularity of plant-based diets, it is not limited to just...",
+      "imageUrl": "https://img.shop.com/Image/240000/243300/243395/products/1572068754.jpg",
+      "id": 1541503665,
+      "referralUrl": "http://www.shop.com/tls-plant-based-protein-shake-1572068754-p.xhtml?publisherID=TEST",
+      "cashback": 0.72,
+      "bv": 12,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1541503665?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "transitions referralPage",
+          "href": "http://www.tlsslim.com/product/tls-plant-based-protein-shake/?id=5797461&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/tls-plant-based-protein-shake-1572068754-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "DNA Miracles&reg; Pre + Post Natal Shake",
+      "minimumPrice": "$35.00",
+      "maximumPrice": "$35.00",
+      "brand": "DNA Miracles&reg;",
+      "description": "A high value is placed on prenatal care and a healthy lifestyle of mothers-to-be. The Academy of Nutrition and Dietetics recommends 1  four healthy lifestyle components during pregnancy: appropriate weight gain, eating a balanced diet, exercising...",
+      "imageUrl": "https://img.shop.com/Image/250000/250100/250199/products/1572068759.jpg",
+      "id": 1541503670,
+      "referralUrl": "http://www.shop.com/dna-miracles-pre-post-natal-shake-1572068759-p.xhtml?publisherID=TEST",
+      "cashback": 0.7,
+      "bv": 12,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1541503670?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/dna-miracles-pre-post-natal-shake-1572068759-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "Isotonix Essentials&trade; Anti-Aging",
+      "minimumPrice": "$99.95",
+      "maximumPrice": "$99.95",
+      "brand": "Isotonix&reg;",
+      "description": "With age comes wisdom…and a variety of challenges associated with aging. Even the healthiest of adults are affected by the physical and mental effects of aging, because of the inherent nature of the process.    Although a healthy diet is essential to...",
+      "imageUrl": "https://img.shop.com/Image/210000/214100/214196/products/1570985385.jpg",
+      "id": 1540411533,
+      "referralUrl": "http://www.shop.com/isotonix-essentials-anti-aging-1570985385-p.xhtml?publisherID=TEST",
+      "cashback": 2,
+      "bv": 50,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1540411533?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "transitions referralPage",
+          "href": "http://www.tlsslim.com/product/isotonix-essentials-anti-aging/?id=5797503&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/isotonix-essentials-anti-aging-1570985385-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        },
+        {
+          "rel": "isotonix referralPage",
+          "href": "http://www.isotonix.com/product/isotonix-essentials-anti-aging/?id=5797503&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "Isotonix Essentials&trade; Turn Down",
+      "minimumPrice": "$69.95",
+      "maximumPrice": "$69.95",
+      "brand": "Isotonix&reg;",
+      "description": "It’s hard to feel balanced and grounded sometimes, especially when restless and worrying thoughts cut into your downtime. Sometimes you just need to free yourself from life’s to-do lists and halt the brakes on your ruminating mind. Bring some calmness...",
+      "imageUrl": "https://img.shop.com/Image/210000/214100/214196/products/1570985387.jpg",
+      "id": 1540411535,
+      "referralUrl": "http://www.shop.com/isotonix-essentials-turn-down-1570985387-p.xhtml?publisherID=TEST",
+      "cashback": 1.4,
+      "bv": 35,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1540411535?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "transitions referralPage",
+          "href": "http://www.tlsslim.com/product/isotonix-essentials-turn-down/?id=5797507&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/isotonix-essentials-turn-down-1570985387-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        },
+        {
+          "rel": "isotonix referralPage",
+          "href": "http://www.isotonix.com/product/isotonix-essentials-turn-down/?id=5797507&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "Essential Oils by Royal Spa",
+      "minimumPrice": "$99.95",
+      "maximumPrice": "$99.95",
+      "brand": "Royal Spa&reg;",
+      "description": "When life always comes at you full-force, your body and mind can feel out of whack. Your sense of feeling grounded becomes off-kilter due to everyday stressors that don’t support what makes you naturally your best self.&nbsp; Your emotional well-being...",
+      "imageUrl": "https://img.shop.com/Image/240000/243300/243388/products/1575471994.jpg",
+      "id": 1544964893,
+      "referralUrl": "http://www.shop.com/essential-oils-by-royal-spa-1575471994-p.xhtml?publisherID=TEST",
+      "cashback": 2,
+      "bv": 50,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1544964893?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/essential-oils-by-royal-spa-1575471994-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        },
+        {
+          "rel": "motives referralPage",
+          "href": "http://www.motivescosmetics.com/product/essential-oils-by-royal-spa/?id=5797635&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "Isotonix&reg; Acai Advanced Energy and Antioxidant Formula",
+      "minimumPrice": "$54.50",
+      "maximumPrice": "$54.50",
+      "brand": "Isotonix&reg;",
+      "description": "A free radical is an atomic structure with an unpaired electron in its outermost shell. These unpaired electrons tend to be highly reactive, resulting in chemical reactions such as oxidation. Because they have one or more unpaired electrons, free...",
+      "imageUrl": "https://img.shop.com/Image/210000/214100/214196/products/561800355.jpg",
+      "id": 603139947,
+      "referralUrl": "http://www.shop.com/isotonix-acai-advanced-energy-and-antioxidant-formula-561800355-p.xhtml?publisherID=TEST",
+      "cashback": 1.09,
+      "bv": 29.5,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/603139947?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "transitions referralPage",
+          "href": "http://www.tlsslim.com/product/isotonix-acai-advanced-energy-and-antioxidant-formula/?id=2237&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/isotonix-acai-advanced-energy-and-antioxidant-formula-561800355-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        },
+        {
+          "rel": "isotonix referralPage",
+          "href": "http://www.isotonix.com/product/isotonix-acai-advanced-energy-and-antioxidant-formula/?id=2237&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "Isotonix&reg; Multivitamin Without Iron",
+      "minimumPrice": "$24.95",
+      "maximumPrice": "$55.95",
+      "brand": "Isotonix&reg;",
+      "description": "A good quality vitamin and mineral supplement creates a sound micronutrient foundation to accompany a balanced diet. According to the World Health Organization (WHO), “Nutrition is the foundation for health and development. Better nutrition means...",
+      "imageUrl": "https://img.shop.com/Image/210000/214100/214196/products/1604659974.jpg",
+      "id": 1574477755,
+      "referralUrl": "http://www.shop.com/isotonix-multivitamin-without-iron-1604659974-p.xhtml?publisherID=TEST",
+      "cashback": 1.12,
+      "bv": 32.5,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1574477755?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "transitions referralPage",
+          "href": "http://www.tlsslim.com/product/isotonix-multivitamin-without-iron/?id=5197085&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/isotonix-multivitamin-without-iron-1604659974-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        },
+        {
+          "rel": "isotonix referralPage",
+          "href": "http://www.isotonix.com/product/isotonix-multivitamin-without-iron/?id=5197085&idType=PRODUCT&publisherID=TEST&langCode=ENG",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "name": "Snap&trade; Essentials Kit",
+      "minimumPrice": "$39.95",
+      "maximumPrice": "$39.95",
+      "brand": "Snap&trade;",
+      "description": "Create a clean home in a snap with our collection of essential, and economical household cleaners. The Snap Essentials Kit contains everything you need to clean your home — all in one, easy to use pack! To keep every room in your home spotless, each...",
+      "imageUrl": "https://img.shop.com/Image/240000/243300/243390/products/1459318643.jpg",
+      "id": 1428412397,
+      "referralUrl": "http://www.shop.com/snap-essentials-kit-1459318643-p.xhtml?publisherID=TEST",
+      "cashback": 0.8,
+      "bv": 20,
+      "ibv": 0,
+      "ciPoints": 0,
+      "links": [
+        {
+          "rel": "details",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/1428412397?publisherID=TEST&locale=en_US",
+          "type": "application/json"
+        },
+        {
+          "rel": "referralPage",
+          "href": "http://www.shop.com/snap-essentials-kit-1459318643-p.xhtml?publisherID=TEST",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Tools",
+      "productCount": 1301066,
+      "id": "1-32843"
+    },
+    {
+      "name": "Home Store",
+      "productCount": 939106,
+      "id": "1-32842"
+    },
+    {
+      "name": "Clothes",
+      "productCount": 627662,
+      "id": "1-32838"
+    },
+    {
+      "name": "Auto",
+      "productCount": 478893,
+      "id": "1-32804"
+    },
+    {
+      "name": "Electronics",
+      "productCount": 204674,
+      "id": "1-32863"
+    },
+    {
+      "name": "Jewelry",
+      "productCount": 375335,
+      "id": "1-32800"
+    },
+    {
+      "name": "Sports and Fitness",
+      "productCount": 200963,
+      "id": "1-32844"
+    },
+    {
+      "name": "Party Supplies",
+      "productCount": 129625,
+      "id": "1-32840"
+    },
+    {
+      "name": "Beauty",
+      "productCount": 141420,
+      "id": "1-32867"
+    },
+    {
+      "name": "Business",
+      "productCount": 159579,
+      "id": "1-32820"
+    },
+    {
+      "name": "Garden",
+      "productCount": 146072,
+      "id": "1-32808"
+    },
+    {
+      "name": "Computers",
+      "productCount": 223729,
+      "id": "1-32862"
+    },
+    {
+      "name": "Crafts",
+      "productCount": 214349,
+      "id": "1-32835"
+    },
+    {
+      "name": "Sports Fan Shop",
+      "productCount": 249118,
+      "id": "1-32877"
+    },
+    {
+      "name": "Health & Nutrition",
+      "productCount": 90204,
+      "id": "1-32841"
+    },
+    {
+      "name": "Pet Supplies",
+      "productCount": 82175,
+      "id": "1-32809"
+    },
+    {
+      "name": "Toys",
+      "productCount": 97356,
+      "id": "1-32810"
+    },
+    {
+      "name": "Shoes",
+      "productCount": 64696,
+      "id": "1-32805"
+    },
+    {
+      "name": "Food and Drink",
+      "productCount": 79263,
+      "id": "1-32806"
+    },
+    {
+      "name": "Books",
+      "productCount": 136475,
+      "id": "1-32836"
+    }
+  ],
+  "brands": [
+    {
+      "name": "Trevco",
+      "productCount": 240191,
+      "id": "Trevco"
+    },
+    {
+      "name": "DecalGirl",
+      "productCount": 110222,
+      "id": "DecalGirl"
+    },
+    {
+      "name": "Surya",
+      "productCount": 47819,
+      "id": "Surya"
+    },
+    {
+      "name": "Safavieh",
+      "productCount": 51517,
+      "id": "Safavieh"
+    },
+    {
+      "name": "Diva At Home",
+      "productCount": 42781,
+      "id": "\"Diva At Home\""
+    },
+    {
+      "name": "Dorman",
+      "productCount": 24458,
+      "id": "Dorman"
+    },
+    {
+      "name": "Apple",
+      "productCount": 18707,
+      "id": "Apple"
+    },
+    {
+      "name": "Meyda Tiffany",
+      "productCount": 10538,
+      "id": "\"Meyda Tiffany\""
+    },
+    {
+      "name": "Hanes",
+      "productCount": 13147,
+      "id": "Hanes"
+    },
+    {
+      "name": "Costumes For All Occasions",
+      "productCount": 7496,
+      "id": "\"Costumes For All Occasions\""
+    },
+    {
+      "name": "Port Authority",
+      "productCount": 15084,
+      "id": "\"Port Authority\""
+    },
+    {
+      "name": "Morris",
+      "productCount": 5931,
+      "id": "Morris"
+    },
+    {
+      "name": "Rubie's Costume Company",
+      "productCount": 5809,
+      "id": "\"Rubie's Costume Company\""
+    },
+    {
+      "name": "Cardone",
+      "productCount": 8382,
+      "id": "Cardone"
+    },
+    {
+      "name": "BRADY",
+      "productCount": 6391,
+      "id": "BRADY"
+    },
+    {
+      "name": "Dickies",
+      "productCount": 6213,
+      "id": "Dickies"
+    },
+    {
+      "name": "Colonial Mills",
+      "productCount": 10805,
+      "id": "\"Colonial Mills\""
+    },
+    {
+      "name": "Forum",
+      "productCount": 5544,
+      "id": "Forum"
+    },
+    {
+      "name": "Sport-Tek",
+      "productCount": 13222,
+      "id": "Sport-Tek"
+    },
+    {
+      "name": "Valor",
+      "productCount": 5364,
+      "id": "Valor"
+    }
+  ],
+  "sellers": [
+    {
+      "name": "UnbeatableSale",
+      "productCount": 2937733,
+      "id": "104162"
+    },
+    {
+      "name": "Zoro",
+      "productCount": 838239,
+      "id": "108908"
+    },
+    {
+      "name": "ShopEddies",
+      "productCount": 343530,
+      "id": "110157"
+    },
+    {
+      "name": "SpectrumSuperStore",
+      "productCount": 155455,
+      "id": "101549"
+    },
+    {
+      "name": "CdsBooksDvds.com",
+      "productCount": 138765,
+      "id": "102326"
+    },
+    {
+      "name": "Stuff4",
+      "productCount": 135434,
+      "id": "102501"
+    },
+    {
+      "name": "My Goods",
+      "productCount": 128366,
+      "id": "109164"
+    },
+    {
+      "name": "SHOPfreely.com",
+      "productCount": 121044,
+      "id": "101383"
+    },
+    {
+      "name": "Farm & City Supply",
+      "productCount": 115264,
+      "id": "108100"
+    },
+    {
+      "name": "TeeBlox",
+      "productCount": 113364,
+      "id": "108959"
+    },
+    {
+      "name": "Christmas Central",
+      "productCount": 112778,
+      "id": "101327"
+    },
+    {
+      "name": "iSave",
+      "productCount": 89927,
+      "id": "114426"
+    },
+    {
+      "name": "BikeSomeWhere.com",
+      "productCount": 88632,
+      "id": "102234"
+    },
+    {
+      "name": "Sim Supply",
+      "productCount": 81785,
+      "id": "112135"
+    },
+    {
+      "name": "Garner Supply",
+      "productCount": 77767,
+      "id": "111258"
+    },
+    {
+      "name": "Adornica Diamonds",
+      "productCount": 57791,
+      "id": "120854"
+    },
+    {
+      "name": "Shop Chimney",
+      "productCount": 57545,
+      "id": "111890"
+    },
+    {
+      "name": "Hipp Hardware Plus",
+      "productCount": 53285,
+      "id": "119400"
+    },
+    {
+      "name": "Beyond Stores",
+      "productCount": 51027,
+      "id": "111475"
+    },
+    {
+      "name": "Best Price Product",
+      "productCount": 49220,
+      "id": "118368"
+    }
+  ],
+  "priceRanges": [
+    {
+      "minimumPrice": 0,
+      "maximumPrice": 15,
+      "productCount": 1517824,
+      "id": "[0.0 TO 15.00]"
+    },
+    {
+      "minimumPrice": 15.01,
+      "maximumPrice": 30,
+      "productCount": 1713279,
+      "id": "[15.01 TO 30.00]"
+    },
+    {
+      "minimumPrice": 30.01,
+      "maximumPrice": 65,
+      "productCount": 1420572,
+      "id": "[30.01 TO 65.00]"
+    },
+    {
+      "minimumPrice": 65.01,
+      "maximumPrice": 195,
+      "productCount": 1373779,
+      "id": "[65.01 TO 195.00]"
+    },
+    {
+      "minimumPrice": 195.01,
+      "maximumPrice": 755290.94,
+      "productCount": 1372587,
+      "id": "[195.01 TO 755290.94]"
+    }
+  ]
+}

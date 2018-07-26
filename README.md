@@ -1,2 +1,0 @@
-# ReactApplicationShop
-Created with CodeSandbox
