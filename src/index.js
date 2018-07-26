@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "../src/MainApp/App";
+import { BrowserRouter as Router } from "react-router-dom";
 
 // (function() {
 //   const url = "https://api.shop.com:8443/AffiliatePublisherNetwork/v1/products";
@@ -53,4 +54,9 @@ import App from "../src/MainApp/App";
 // })();
 
 const rootElement = document.getElementById("root");
-ReactDOM.render(<App />, rootElement);
+ReactDOM.render(
+  <Router>
+    <App />
+  </Router>,
+  rootElement
+);
