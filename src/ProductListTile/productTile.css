@@ -1,0 +1,13 @@
+li {
+  list-style-type: none;
+}
+
+.productContainer {
+  display: flex;
+  padding: 10px;
+}
+.imageContainer {
+  border-radius: 50px;
+  box-shadow: 6px 7px 17px;
+  margin: 3px 30px 6px 0px;
+}
