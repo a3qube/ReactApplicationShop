@@ -1,5 +1,4 @@
 import React from "react";
-import data from "../resource/Products.json";
 import "./styles.css";
 import ProductTile from "../ProductListTile/ProductTile";
 import { Route, Switch } from "react-router-dom";
@@ -10,7 +9,6 @@ import getProducts from "../../src/resource/ProductsData"
 export default class App extends React.Component {
   constructor(props) {
     super(props);
-
     this.state = {
       products: null,
       value: ""
@@ -25,7 +23,7 @@ export default class App extends React.Component {
     this.setState((prev, props) => {
       return {
         value: value,
-        products: data.products.filter(product => product.name.includes(value))
+        products: this.allData.filter(product => product.name.toUpperCase().includes(value.toUpperCase()))
       };
     });
   };
@@ -33,6 +31,7 @@ export default class App extends React.Component {
   async getProductsDetails() {
     const data = await getProducts();
     console.log(data);
+    this.allData = data;
     this.setState({products: data});
   }
 
