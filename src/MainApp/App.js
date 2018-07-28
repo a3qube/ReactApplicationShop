@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles.css";
 import ProductTile from "../ProductListTile/ProductTile";
-import { Route, Switch } from "react-router-dom";
+import { Route } from "react-router-dom";
 import ProductDetails from "../ProductDetails/ProductDetails";
 import BusyIndicator from "../Utils/BusyIndicator/BusyIndicator"
 import getProducts from "../../src/resource/ProductsData"
@@ -58,9 +58,9 @@ export default class App extends React.Component {
               ))}
             </ul>
             </div>
-            <div>
+            {/* <div>
               <Route exact path="/productDetails/:id" component={ProductDetails} />
-            </div>
+            </div> */}
           </div>
 
         )

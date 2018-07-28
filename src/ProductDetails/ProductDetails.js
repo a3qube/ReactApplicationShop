@@ -1,9 +1,9 @@
 import React from "react";
-
-export default function ProductDetails({ match }) {
+import {getProductDetails} from '../resource/ProductsData'
+export default function ProductDetails(props) {
   return (
-    <div>
-      <h1>you have selected</h1>
-    </div>
+      <div>
+        <h1>you have selected {getProductDetails(props.id).name}</h1>
+      </div>
   );
 }

@@ -1,4 +1,4 @@
-
+let allData = null;
 async function getDatafromService() {
     const url = "https://api.shop.com/AffiliatePublisherNetwork/v1/products";
     var queryParams = '?' +  encodeURIComponent('publisherID')
@@ -10,39 +10,34 @@ async function getDatafromService() {
     +  encodeURIComponent('apikey') + '='
     + encodeURIComponent('l7xxb1c218d3bba746a5b2cc2a87ef4c6653');
      const response = await fetch(url + queryParams);
-     return response.json();
-    //  return data;
+     const data = await response.json();
+     allData = data;
+     return data;
 }
 
-export async function getProducts() {
-   return await getDatafromService().then(data => {
-        return data['products'];
-    });
+function specificData(property) {
+    return getDatafromService().then( data => data[property]);
 }
-export async function getCategories() {
-    return await getDatafromService().then(data => {
-         return data['categories'];
-     });
+export function getProducts() {
+   return specificData('products');
+}
+export function getCategories() {
+   return specificData('categories');
  }
  export async function getBrands() {
-    return await getDatafromService().then(data => {
-         return data['brands'];
-     });
+   return specificData('brands');
  }
  export async function getPriceRanges() {
-    return await getDatafromService().then(data => {
-         return data['priceRanges'];
-     });
+   return specificData('priceRanges');
  }
  export async function getSellers() {
-    return await getDatafromService().then(data => {
-         return data['sellers'];
-     });
+   return specificData('sellers');
  }
  export async function getTotalProducts() {
-    return await getDatafromService().then(data => {
-         return data['numberOfProducts'];
-     });
+   return specificData('numberOfProducts');
  }
 
+ export function getProductDetails(id){
+    return allData.products.find(p => p.id === +id);
+ }
 export default getProducts;

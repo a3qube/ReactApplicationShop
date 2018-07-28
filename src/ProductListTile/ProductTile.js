@@ -1,6 +1,6 @@
 import React from "react";
 import "./productTile.css";
-import { BrowserRouter as Router, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { Route } from "react-router-dom";
 import ProductDetails from "../ProductDetails/ProductDetails";
 
@@ -23,6 +23,11 @@ class ProductTile extends React.Component {
             {/* <a href={product.imageUrl}>{product.name}</a>*/}
             <Link to={`/productDetails/${product.id}`}>{product.name}</Link>
             <p>Minimun Price : {product.minimumPrice}</p>
+          </div>
+          <div>
+             <Route exact path="/productDetails/:id" render= {({match}) => {
+               return match.params.id == product.id ? <ProductDetails id={product.id}/> : null;
+             }} />
           </div>
         </div>
       </li>
