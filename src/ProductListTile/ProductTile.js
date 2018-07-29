@@ -19,12 +19,12 @@ class ProductTile extends React.Component {
               className="imageContainer"
             />
           </div>
-          <div>
+          <div className="linkNPrice">
             {/* <a href={product.imageUrl}>{product.name}</a>*/}
             <Link to={`/productDetails/${product.id}`}>{product.name}</Link>
             <p>Minimun Price : {product.minimumPrice}</p>
           </div>
-          <div>
+          <div className="description">
              <Route exact path="/productDetails/:id" render= {({match}) => {
                return match.params.id == product.id ? <ProductDetails id={product.id}/> : null;
              }} />

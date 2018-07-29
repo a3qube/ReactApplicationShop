@@ -5,9 +5,26 @@ li {
 .productContainer {
   display: flex;
   padding: 10px;
+  height: 100px;
+  /* border-style: outset; */
+  margin: 10px 0px 10px 1px;
+  border-style: groove;
 }
+.productContainer:hover {
+  box-shadow: 2px 2px 14px 0px;
+  border-style: none;
+}
+
 .imageContainer {
   border-radius: 50px;
   box-shadow: 6px 7px 17px;
   margin: 3px 30px 6px 0px;
+}
+
+.linkNPrice {
+  width: 50%;
+}
+
+.description {
+  width: 80%;
 }

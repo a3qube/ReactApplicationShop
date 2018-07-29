@@ -58,9 +58,6 @@ export default class App extends React.Component {
               ))}
             </ul>
             </div>
-            {/* <div>
-              <Route exact path="/productDetails/:id" component={ProductDetails} />
-            </div> */}
           </div>
 
         )
